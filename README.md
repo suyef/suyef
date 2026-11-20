@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hello!
+
+### currently i work on
+
+- embedded firmware & fpga autonomous @ ucr-fsae
+
+- fixing schedules @ fluxability
+
+i also like launching rockets
+
 
 <!--
 **suyef/suyef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
